@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=flat-square&logo=youtube" alt="Subscribe on YouTube" width="140"/>
 </a> 
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) [![arXiv](https://img.shields.io/badge/arXiv-2412.00431-b31b1b.svg)](https://arxiv.org/abs/2412.00431) 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 <a href="https://discord.gg/UG47Yb6gHG" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Chat-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Join us on Discord" width="140"/>
 </a>
@@ -114,7 +114,7 @@ export GEMINI_API_KEY="AI...." ## optional
 
 For Windows, use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) and the same command.
 
-By default, cmbagent uses models from oai/anthropic/google. If you want to pick different LLMs, just adapat `agent_llm_configs` as above, or the `default_agent_llm_configs` in [utils.py](https://github.com/CMBAgents/cmbagent/blob/main/cmbagent/utils.py).
+By default, cmbagent uses models from oai/anthropic/google. If you want to pick different LLMs, just adapat `agent_llm_configs` as above, or the `default_agent_llm_configs` in utils.py.
 
 ## Docker
 
@@ -137,29 +137,5 @@ If you want to enter the docker container in interactive mode to use cmbagent wi
 ```bash
 docker run --rm -it cmbagent bash
 ```
-
-## References
-
-```bash
-   @misc{Laverick:2024fyh,
-      author = "Laverick, Andrew and Surrao, Kristen and Zubeldia, Inigo and Bolliet, Boris and Cranmer, Miles and Lewis, Antony and Sherwin, Blake and Lesgourgues, Julien",
-      title = "{Multi-Agent System for Cosmological Parameter Analysis}",
-      eprint = "2412.00431",
-      archivePrefix = "arXiv",
-      primaryClass = "astro-ph.IM",
-      month = "11",
-      year = "2024"
-   }
-```
-
-
-## Acknowledgments
-
-Our project is funded by the [Cambridge Centre for Data-Driven Discovery Accelerate Programme](https://science.ai.cam.ac.uk). We are grateful to [Mark Sze](https://github.com/marklysze) for help with [AG2](https://github.com/ag2ai/ag2).
-
-
-
-
-
 
 
