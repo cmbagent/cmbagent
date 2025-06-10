@@ -19,13 +19,13 @@ Join our [Discord Server](https://discord.gg/UG47Yb6gHG) to ask all your questio
 
 This is **open-source research-ready software**.  **Please star the  repo ⭐ and cite [Laverick et al (2024)](#reference) to support our open-source work**. 
 
-- Check the [demo notebooks](https://github.com/CMBAgents/cmbagent/tree/main/docs/notebooks).
+- Check the [demo notebooks](https://github.com/cmbagent/cmbagent/tree/main/docs/notebooks).
 
 - Best perfmonces are obtained with [top-scoring models](https://lmarena.ai/?leaderboard).
 
-We emphasize that [cmbagent](https://github.com/CMBAgents/cmbagent) is under active development and apologize for any bugs. 
+We emphasize that [cmbagent](https://github.com/cmbagent/cmbagent) is under active development and apologize for any bugs. 
 
-**The backbone of [cmbagent](https://github.com/CMBAgents/cmbagent) is [AG2](https://github.com/ag2ai/ag2)**. **Please star the [AG2](https://github.com/ag2ai/ag2) repo ⭐ and cite [Wu et al (2023)](https://arxiv.org/abs/2308.08155)!**
+**The backbone of [cmbagent](https://github.com/cmbagent/cmbagent) is [AG2](https://github.com/ag2ai/ag2)**. **Please star the [AG2](https://github.com/ag2ai/ag2) repo ⭐ and cite [Wu et al (2023)](https://arxiv.org/abs/2308.08155)!**
 
 ## Strategy
 
